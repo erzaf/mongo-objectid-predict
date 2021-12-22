@@ -5,7 +5,7 @@ from mongo_objectid_predict.object_id import ObjectId
 
 class TestObjectId(unittest.TestCase):
 
-    SAMPLE = '5ae9bcaa2c144b9def01ec3e'
+    SAMPLE = '61246a8c642e3500218b264b'
 
     def test_parse_str(self):
         o = ObjectId(self.SAMPLE)

@@ -1,3 +1,7 @@
+## Notes
+
+I edited some line of code for adjustment in Python 3.9.9
+
 ## Mongo ObjectId introduction
 
 [Mongo ObjectId](https://docs.mongodb.com/manual/reference/method/ObjectId/)s are generated
